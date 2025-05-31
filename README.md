@@ -50,9 +50,7 @@ My name is Edson Schmitz, I'm currently studying Systems Analysis and Developmen
     title="Angular"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
-    
-    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"    
 />
 <img 
     align="left" 
@@ -68,8 +66,7 @@ My name is Edson Schmitz, I'm currently studying Systems Analysis and Developmen
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"    
 />
 
 <br/>
