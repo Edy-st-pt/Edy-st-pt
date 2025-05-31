@@ -2,7 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Edson Schmitz, estou cursando técnologo em Análise e Desenvolvimento de Sistemas no Unisenai. Sou apaixonado por tecnologia. Estou em busca de uma oportunidade de estágio como desenvolvedor Full Stack para colocar em prática meus conhecimentos, busco e evoluir na área. Sempre em busca de novos desafios e disposto a crescer.
+Me chamo Edson Schmitz, curso Análise e Desenvolvimento de Sistemas no Unisenai. Sou apaixonado por tecnologia e desenvolvimento. Busco uma oportunidade de estágio como desenvolvedor Full Stack para aplicar meus conhecimentos, adquirir experiência e crescer na área. Sempre aberto a novos desafios, aprendizado e evolução constante.
+
+My name is Edson Schmitz, I'm currently studying Systems Analysis and Development at Unisenai. Passionate about technology and software development. I'm looking for an internship opportunity as a Full Stack Developer to apply my skills, gain experience, and grow in the field. Always open to new challenges, learning, and continuous growth.
 
 <p align="left">
     <a href="https://github.com/Edy-st-pt?tab=followers">
