@@ -86,7 +86,7 @@ My name is Edson Schmitz, I'm currently studying Systems Analysis and Developmen
     align="left" 
     alt="GitHub Stats" 
     height="200"   
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edy-st-pt&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=6"
 />
 
 </p>
