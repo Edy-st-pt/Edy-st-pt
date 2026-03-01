@@ -46,11 +46,11 @@ My name is Edson Schmitz, I'm currently studying Systems Analysis and Developmen
 />
 <img 
     align="left" 
-    alt="Angular" 
-    title="Angular"
+    alt="React" 
+    title="React"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"    
 />
 <img 
     align="left" 
