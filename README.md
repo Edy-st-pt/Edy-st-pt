@@ -30,7 +30,7 @@ Projetos em Destaque:
 
 ☁️ AWS S3 – Upload de ArquivosAPI para upload e gerenciamento de arquivos na nuvemJava · Spring Boot · AWS S3
 
-🛠 Linguagens e Tecnologias
+Linguagens e Tecnologias:
 
 <img align="left" alt="Java" title="Java" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="Spring Boot" title="Spring Boot" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
