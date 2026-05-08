@@ -1,11 +1,7 @@
-# 👨‍💻 Edson Schmitz
-
-**`Desenvolvedor FullStack`**
-
-Me chamo Edson Schmitz, atualmente estou estudando Análise e Desenvolvimento de Sistemas no Unisenai. Sou apaixonado por tecnologia e desenvolvimento. Busco uma oportunidade de estágio como desenvolvedor Full Stack para aplicar meus conhecimentos, adquirir experiência e crescer na área. Sempre aberto a novos desafios, aprendizado e evolução constante.
-
-My name is Edson Schmitz, I'm currently studying Systems Analysis and Development at Unisenai. Passionate about technology and software development. I'm looking for an internship opportunity as a Full Stack Developer to apply my skills, gain experience, and grow in the field. Always open to new challenges, learning, and continuous growth.
-
+👨‍💻 Edson Schmitz
+Desenvolvedor Full Stack | Java · Spring Boot · React · React Native · PostgreSQL
+Desenvolvedor Full Stack com experiência prática em projetos do zero — do banco de dados à interface. Já desenvolvi APIs RESTful com Java e Spring Boot, aplicativos mobile com React Native, sistemas web com React e integração com serviços em nuvem (AWS S3). Curso Tecnologia em Análise e Desenvolvimento de Sistemas na UniSenai SC (5º semestre) e busco minha primeira oportunidade como desenvolvedor júnior.
+Full Stack Developer with hands-on experience building projects from scratch — from database to UI. I've built RESTful APIs with Java and Spring Boot, mobile apps with React Native, web systems with React, and cloud integrations using AWS S3. Currently pursuing a degree in Systems Analysis and Development at UniSenai SC (5th semester) and looking for my first junior developer opportunity.
 <p align="left">
     <a href="https://github.com/Edy-st-pt?tab=followers">
         <img 
@@ -14,66 +10,34 @@ My name is Edson Schmitz, I'm currently studying Systems Analysis and Developmen
             src="https://custom-icon-badges.demolab.com/github/followers/Edy-st-pt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://linkedin.com/in/edson-schmitz-edy">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
 
----
+🚀 Projetos em Destaque
+ProjetoDescriçãoStack🗓 Barbearia – AgendamentoSistema web de agendamento de clientes para barbeariaJava · Spring Boot · PostgreSQL · HTML · Bootstrap🏃 RunEvent – Cadastro de AtletasAPI REST + app mobile para gerenciamento de atletas e eventosJava · Spring Boot · React Native · PostgreSQL☁️ AWS S3 – Upload de ArquivosAPI para upload e gerenciamento de arquivos na nuvemJava · Spring Boot · AWS S3
 
-### 🤖 Linguagens e Tecnologias
+🛠 Linguagens e Tecnologias
+<img align="left" alt="Java" title="Java" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="Spring Boot" title="Spring Boot" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+<img align="left" alt="React" title="React / React Native" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="HTML" title="HTML5" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" title="CSS3" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="Bootstrap" title="Bootstrap" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="AWS" title="AWS S3" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+<img align="left" alt="Figma" title="Figma" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+<img align="left" alt="Git" title="Git" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<br/><br/>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"    
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Postgresql" 
-    title="Postgresql"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"     
-/>  
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
+📊 Estatísticas
 <p>
 <img 
     align="left" 
@@ -84,11 +48,8 @@ My name is Edson Schmitz, I'm currently studying Systems Analysis and Developmen
 />
 <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Top Langs" 
     height="200"   
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edy-st-pt&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=6"
 />
-
 </p>
-
-
