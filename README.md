@@ -25,7 +25,7 @@ Full Stack Developer with hands-on experience building projects from scratch —
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
@@ -35,7 +35,7 @@ Full Stack Developer with hands-on experience building projects from scratch —
 
 ---
 
-### 🛠 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img align="left" alt="Java" title="Java" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="Spring Boot" title="Spring Boot" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
