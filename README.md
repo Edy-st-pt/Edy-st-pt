@@ -32,6 +32,7 @@ Full Stack Developer with hands-on experience building projects from scratch —
 | [🗓 Barbearia – Agendamento](https://github.com/Edy-st-pt) | Sistema web de agendamento de clientes para barbearia | Java · Spring Boot · PostgreSQL · HTML · Bootstrap |
 | [🏃 RunEvent – Cadastro de Atletas](https://github.com/Edy-st-pt) | API REST + app mobile para gerenciamento de atletas e eventos | Java · Spring Boot · React Native · PostgreSQL |
 | [☁️ AWS S3 – Upload de Arquivos](https://github.com/Edy-st-pt) | API para upload e gerenciamento de arquivos na nuvem | Java · Spring Boot · AWS S3 |
+| [🐇 RabbitMQ – E-commerce Assíncrono](https://github.com/Edy-st-pt/spring-rabbitmq-ecommerce) | Simulação de fluxo de e-commerce com mensageria assíncrona — producer de pedidos, estoque e preço | Java · Spring Boot · RabbitMQ |
 
 ---
 
@@ -49,6 +50,7 @@ Full Stack Developer with hands-on experience building projects from scratch —
 <img align="left" alt="AWS" title="AWS S3" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
 <img align="left" alt="Figma" title="Figma" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 <img align="left" alt="Git" title="Git" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="RabbitMQ" title="RabbitMQ" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"/>
 
 <br/><br/>
 
