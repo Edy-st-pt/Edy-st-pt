@@ -23,9 +23,16 @@ Full Stack Developer with hands-on experience building projects from scratch —
 </p>
 
 🚀 Projetos em Destaque
-ProjetoDescriçãoStack🗓 Barbearia – AgendamentoSistema web de agendamento de clientes para barbeariaJava · Spring Boot · PostgreSQL · HTML · Bootstrap🏃 RunEvent – Cadastro de AtletasAPI REST + app mobile para gerenciamento de atletas e eventosJava · Spring Boot · React Native · PostgreSQL☁️ AWS S3 – Upload de ArquivosAPI para upload e gerenciamento de arquivos na nuvemJava · Spring Boot · AWS S3
+
+ProjetoDescriçãoStack:
+🗓 Barbearia – AgendamentoSistema web de agendamento de clientes para barbeariaJava · Spring Boot · PostgreSQL · HTML · Bootstrap
+
+🏃 RunEvent – Cadastro de AtletasAPI REST + app mobile para gerenciamento de atletas e eventosJava · Spring Boot · React Native · PostgreSQL
+
+☁️ AWS S3 – Upload de ArquivosAPI para upload e gerenciamento de arquivos na nuvemJava · Spring Boot · AWS S3
 
 🛠 Linguagens e Tecnologias
+
 <img align="left" alt="Java" title="Java" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="Spring Boot" title="Spring Boot" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 <img align="left" alt="React" title="React / React Native" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
