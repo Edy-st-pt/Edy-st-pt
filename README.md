@@ -15,7 +15,7 @@
     </a>
 </p>
 
-👨‍💻 Edson Schmitz
+👨‍💻 
 Desenvolvedor Full Stack | Java · Spring Boot · React · React Native · PostgreSQL
 
 Desenvolvedor Full Stack com experiência prática em projetos do zero — do banco de dados à interface. Já desenvolvi APIs RESTful com Java e Spring Boot, aplicativos mobile com React Native, sistemas web com React e integração com serviços em nuvem (AWS S3). Curso Tecnologia em Análise e Desenvolvimento de Sistemas na UniSenai SC (5º semestre) e busco minha primeira oportunidade como desenvolvedor júnior.
