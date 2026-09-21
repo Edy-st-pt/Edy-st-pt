@@ -31,7 +31,7 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 - 🗄️ Modelagem e consultas em **SQL** (PostgreSQL / MySQL)
 - 🧪 Testes com **JUnit** e **Mockito**
 - ☁️ Integração com serviços em nuvem (AWS S3)
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — UniSenai SC (5º semestre)
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas — UniSenai SC
 - 🌱 Buscando minha primeira oportunidade como **desenvolvedor back-end júnior**
 - 💬 Fluente em português · inglês em desenvolvimento
 
