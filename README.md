@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:64748B&height=200&section=header&text=Edson%20Schmitz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20SQL&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:52525B,100:A1A1AA&height=200&section=header&text=Edson%20Schmitz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20SQL&descAlignY=58&descSize=18" width="100%"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Edy-st-pt&label=Visitas%20ao%20perfil&color=475569&style=flat-square" />
@@ -65,17 +65,17 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 <div align="center">
 
 <a href="https://github.com/Edy-st-pt/RunEvent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=RunEvent&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=94A3B8&icon_color=64748B&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=RunEvent&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=A1A1AA&icon_color=71717A&cache_seconds=86400" width="48%" />
 </a>
 <a href="https://github.com/Edy-st-pt/S3-upload-aws">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=S3-upload-aws&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=94A3B8&icon_color=64748B&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=S3-upload-aws&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=A1A1AA&icon_color=71717A&cache_seconds=86400" width="48%" />
 </a>
 
 <a href="https://github.com/Edy-st-pt/spring-rabbitmq-ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=spring-rabbitmq-ecommerce&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=94A3B8&icon_color=64748B&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=spring-rabbitmq-ecommerce&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=A1A1AA&icon_color=71717A&cache_seconds=86400" width="48%" />
 </a>
 <a href="https://github.com/Edy-st-pt/Sistema_Agendamento">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=Sistema_Agendamento&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=94A3B8&icon_color=64748B&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=Sistema_Agendamento&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=A1A1AA&icon_color=71717A&cache_seconds=86400" width="48%" />
 </a>
 
 </div>
@@ -110,10 +110,10 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Edy-st-pt&show_icons=true&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=94A3B8&icon_color=64748B&text_color=c9d1d9&cache_seconds=86400" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edy-st-pt&theme=dark&hide_border=true&background=0d1117&ring=64748B&fire=94A3B8&currStreakLabel=94A3B8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Edy-st-pt&show_icons=true&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=A1A1AA&icon_color=71717A&text_color=c9d1d9&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edy-st-pt&theme=dark&hide_border=true&background=0d1117&ring=71717A&fire=A1A1AA&currStreakLabel=A1A1AA" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edy-st-pt&layout=compact&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=94A3B8&cache_seconds=86400" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edy-st-pt&layout=compact&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=A1A1AA&cache_seconds=86400" width="40%" />
 
 </div>
 
@@ -159,6 +159,6 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64748B,100:1E293B&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A1A1AA,100:52525B&height=100&section=footer" width="100%"/>
 
 </div>
