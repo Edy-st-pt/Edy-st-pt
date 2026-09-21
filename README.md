@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E4E4E7,100:18181B&height=200&section=header&text=Edson%20Schmitz&fontSize=42&fontColor=27272A&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20SQL&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F5F5,100:E4E4E7&height=160&section=header&text=Edson%20Schmitz&fontSize=42&fontColor=27272A&animation=fadeIn&fontAlignY=45&desc=Back-end%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20SQL&descAlignY=70&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:27272A&height=45&section=header" width="100%"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Edy-st-pt&label=Visitas%20ao%20perfil&color=475569&style=flat-square" />
@@ -23,7 +24,7 @@
 
 <br/>
 
-## 👋 Sobre mim
+## Sobre mim
 
 Desenvolvedor **Back-end** com experiência prática em projetos do zero — modelagem de dados, regras de negócio e construção de APIs. Gosto de entender primeiro o problema que precisa ser resolvido, e a partir disso transformar isso em uma solução organizada, testável e previsível.
 
@@ -32,7 +33,6 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 - 🧪 Testes com **JUnit** e **Mockito**
 - ☁️ Integração com serviços em nuvem (AWS S3)
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** — UniSenai SC
-- 🌱 Buscando minha primeira oportunidade como **desenvolvedor back-end júnior**
 - 💬 Fluente em português · inglês em desenvolvimento
 
 <br/>
@@ -60,7 +60,7 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 
 <br/>
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <table>
 <tr><th align="left">Projeto</th><th align="left">Descrição</th><th align="left">Stack</th></tr>
@@ -118,6 +118,7 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:E4E4E7&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:27272A,100:18181B&height=45&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E4E4E7,100:F5F5F5&height=60&section=footer" width="100%"/>
 
 </div>
