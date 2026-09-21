@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F5F5,100:E4E4E7&height=160&section=header&text=Edson%20Schmitz&fontSize=42&fontColor=27272A&animation=fadeIn&fontAlignY=45&desc=Back-end%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20SQL&descAlignY=70&descSize=18" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:27272A&height=45&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14213D,100:14213D&height=160&section=header&text=Edson%20Schmitz&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Back-end%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20SQL&descAlignY=70&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B6798,100:93C5FD&height=80&section=header" width="100%"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Edy-st-pt&label=Visitas%20ao%20perfil&color=475569&style=flat-square" />
@@ -33,7 +33,7 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 - 🧪 Testes com **JUnit** e **Mockito**
 - ☁️ Integração com serviços em nuvem (AWS S3)
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** — UniSenai SC
-- 💬 Fluente em português · inglês em desenvolvimento
+- 💬 Inglês em desenvolvimento
 
 <br/>
 
@@ -118,7 +118,7 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:27272A,100:18181B&height=45&section=footer" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E4E4E7,100:F5F5F5&height=60&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93C5FD,100:3B6798&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14213D,100:14213D&height=60&section=footer" width="100%"/>
 
 </div>
