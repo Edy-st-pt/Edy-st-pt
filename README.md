@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E4E4E7,100:FAFAFA&height=200&section=header&text=Edson%20Schmitz&fontSize=42&fontColor=27272A&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20SQL&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E4E4E7,100:18181B&height=200&section=header&text=Edson%20Schmitz&fontSize=42&fontColor=27272A&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20SQL&descAlignY=58&descSize=18" width="100%"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Edy-st-pt&label=Visitas%20ao%20perfil&color=475569&style=flat-square" />
@@ -23,7 +23,7 @@
 
 <br/>
 
-## Sobre mim
+## 👋 Sobre mim
 
 Desenvolvedor **Back-end** com experiência prática em projetos do zero — modelagem de dados, regras de negócio e construção de APIs. Gosto de entender primeiro o problema que precisa ser resolvido, e a partir disso transformar isso em uma solução organizada, testável e previsível.
 
@@ -92,10 +92,7 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Edy-st-pt&show_icons=true&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=A1A1AA&icon_color=71717A&text_color=c9d1d9&cache_seconds=86400" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edy-st-pt&theme=dark&hide_border=true&background=0d1117&ring=71717A&fire=A1A1AA&currStreakLabel=A1A1AA" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edy-st-pt&layout=compact&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=A1A1AA&cache_seconds=86400" width="40%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edy-st-pt&theme=dark&hide_border=true&background=0d1117&ring=71717A&fire=A1A1AA&currStreakLabel=A1A1AA" width="60%" />
 
 </div>
 
@@ -121,6 +118,6 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FAFAFA,100:E4E4E7&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:E4E4E7&height=100&section=footer" width="100%"/>
 
 </div>
