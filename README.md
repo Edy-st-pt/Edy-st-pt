@@ -1,74 +1,152 @@
-<p align="left">
-    <a href="https://github.com/Edy-st-pt?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Edy-st-pt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://linkedin.com/in/edson-schmitz-edy">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=200&section=header&text=Edson%20Schmitz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20SQL&descAlignY=58&descSize=18" width="100%"/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Edy-st-pt&label=Visitas%20ao%20perfil&color=6366F1&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Edy-st-pt?label=Seguidores&style=flat-square&color=6366F1&labelColor=0f172a" />
 </p>
 
-# 👨‍💻 Edson Schmitz
+<p>
+  <a href="https://www.linkedin.com/in/edson-schmitz-edy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:edsondev30@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Edy-st-pt" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
-**`Desenvolvedor Full Stack | Java · Spring Boot · React · React Native · PostgreSQL`**
+</div>
 
-Desenvolvedor Full Stack com experiência prática em projetos do zero — do banco de dados à interface. Já desenvolvi APIs RESTful com Java e Spring Boot, aplicativos mobile com React Native, sistemas web com React e integração com serviços em nuvem (AWS S3). Formado em Tecnologia em Análise e Desenvolvimento de Sistemas no UniSenai SC.
+<br/>
 
-Full Stack Developer with hands-on experience building projects from scratch — from database to UI. I've built RESTful APIs with Java and Spring Boot, mobile apps with React Native, web systems with React, and cloud integrations using AWS S3. Graduated in Systems Analysis and Development at UniSenai SC.
+## 👋 Sobre mim
 
----
+Desenvolvedor **Back-end** com experiência prática em projetos do zero — modelagem de dados, regras de negócio e construção de APIs. Gosto de entender primeiro o problema que precisa ser resolvido, e a partir disso transformar isso em uma solução organizada, testável e previsível.
 
-### Projetos em Destaque
+- 🔭 Foco em **APIs RESTful com Java e Spring Boot**
+- 🗄️ Modelagem e consultas em **SQL** (PostgreSQL / MySQL)
+- 🧪 Testes com **JUnit** e **Mockito**
+- ☁️ Integração com serviços em nuvem (AWS S3)
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — UniSenai SC (5º semestre)
+- 🌱 Buscando minha primeira oportunidade como **desenvolvedor back-end júnior**
+- 💬 Fluente em português · inglês em desenvolvimento
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Barbearia – Agendamento](https://github.com/Edy-st-pt) | Sistema web de agendamento de clientes para barbearia | Java · Spring Boot · PostgreSQL · HTML · Bootstrap |
-| [RunEvent – Cadastro de Atletas](https://github.com/Edy-st-pt) | API REST + app mobile para gerenciamento de atletas e eventos | Java · Spring Boot · React Native · PostgreSQL |
-| [AWS S3 – Upload de Arquivos](https://github.com/Edy-st-pt) | API para upload e gerenciamento de arquivos na nuvem | Java · Spring Boot · AWS S3 |
-| [RabbitMQ – E-commerce Assíncrono](https://github.com/Edy-st-pt/spring-rabbitmq-ecommerce) | Simulação de fluxo de e-commerce com mensageria assíncrona — producer de pedidos, estoque e preço | Java · Spring Boot · RabbitMQ |
+<br/>
 
----
+## 🛠️ Stack
 
-### Linguagens e Tecnologias
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<img align="left" alt="Java" title="Java" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="Spring Boot" title="Spring Boot" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-<img align="left" alt="React" title="React / React Native" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="HTML" title="HTML5" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS3" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="Bootstrap" title="Bootstrap" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="MySQL" title="MySQL" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="AWS" title="AWS S3" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-<img align="left" alt="Figma" title="Figma" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-<img align="left" alt="Git" title="Git" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+**Linguagens & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=dark" />
+
+</td>
+<td valign="top" width="50%">
+
+**Bancos de Dados, Nuvem & Ferramentas**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,git,github&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/Edy-st-pt/RunEvent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=RunEvent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=0EA5E9" width="48%" />
+</a>
+<a href="https://github.com/Edy-st-pt/S3-upload-aws">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=S3-upload-aws&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=0EA5E9" width="48%" />
+</a>
+
+<a href="https://github.com/Edy-st-pt/spring-rabbitmq-ecommerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=spring-rabbitmq-ecommerce&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=0EA5E9" width="48%" />
+</a>
+<a href="https://github.com/Edy-st-pt/Sistema_Agendamento">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=Sistema_Agendamento&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=0EA5E9" width="48%" />
+</a>
+
+</div>
+
+<table>
+<tr><th align="left">Projeto</th><th align="left">Descrição</th><th align="left">Stack</th></tr>
+<tr>
+  <td><a href="https://github.com/Edy-st-pt/RunEvent">RunEvent</a></td>
+  <td>API REST para gerenciamento de atletas e eventos</td>
+  <td>Java · Spring Boot · PostgreSQL</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/Edy-st-pt/S3-upload-aws">AWS S3 Upload</a></td>
+  <td>API para upload e gerenciamento de arquivos na nuvem</td>
+  <td>Java · Spring Boot · AWS S3</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/Edy-st-pt/spring-rabbitmq-ecommerce">E-commerce Assíncrono</a></td>
+  <td>Simulação de fluxo de e-commerce com mensageria</td>
+  <td>Java · Spring Boot · RabbitMQ</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/Edy-st-pt/Sistema_Agendamento">Sistema de Agendamento</a></td>
+  <td>Sistema web de agendamento de clientes para barbearia</td>
+  <td>Java · Spring Boot · PostgreSQL</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Edy-st-pt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=0EA5E9&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edy-st-pt&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=0EA5E9&currStreakLabel=6366F1" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edy-st-pt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1" width="40%" />
+
+</div>
+
+<br/>
+
+## 🏆 Conquistas
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Edy-st-pt&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15&column=6" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### Vamos conversar?
+
+<a href="https://www.linkedin.com/in/edson-schmitz-edy" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:edsondev30@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Edy-st-pt" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 <br/><br/>
 
----
+<sub>Objetivo de longo prazo: atuar como full stack. Hoje o foco é back-end — Java, Spring Boot e SQL.</sub>
 
-### 📊 Estatísticas
+<br/><br/>
 
-<p>
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"  
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Edy-st-pt&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br"
-/>
-<img 
-    align="left" 
-    alt="Top Langs" 
-    height="200"   
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edy-st-pt&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=6"
-/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=100&section=footer" width="100%"/>
+
+</div>
