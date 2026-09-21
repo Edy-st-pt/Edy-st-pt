@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=200&section=header&text=Edson%20Schmitz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20SQL&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:64748B&height=200&section=header&text=Edson%20Schmitz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20SQL&descAlignY=58&descSize=18" width="100%"/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Edy-st-pt&label=Visitas%20ao%20perfil&color=6366F1&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Edy-st-pt?label=Seguidores&style=flat-square&color=6366F1&labelColor=0f172a" />
+  <img src="https://komarev.com/ghpvc/?username=Edy-st-pt&label=Visitas%20ao%20perfil&color=475569&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Edy-st-pt?label=Seguidores&style=flat-square&color=475569&labelColor=1e293b" />
 </p>
 
 <p>
@@ -31,7 +31,7 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 - 🗄️ Modelagem e consultas em **SQL** (PostgreSQL / MySQL)
 - 🧪 Testes com **JUnit** e **Mockito**
 - ☁️ Integração com serviços em nuvem (AWS S3)
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas — UniSenai SC
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** — UniSenai SC
 - 🌱 Buscando minha primeira oportunidade como **desenvolvedor back-end júnior**
 - 💬 Fluente em português · inglês em desenvolvimento
 
@@ -65,17 +65,17 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 <div align="center">
 
 <a href="https://github.com/Edy-st-pt/RunEvent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=RunEvent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=0EA5E9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=RunEvent&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=94A3B8&icon_color=64748B&cache_seconds=86400" width="48%" />
 </a>
 <a href="https://github.com/Edy-st-pt/S3-upload-aws">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=S3-upload-aws&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=0EA5E9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=S3-upload-aws&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=94A3B8&icon_color=64748B&cache_seconds=86400" width="48%" />
 </a>
 
 <a href="https://github.com/Edy-st-pt/spring-rabbitmq-ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=spring-rabbitmq-ecommerce&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=0EA5E9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=spring-rabbitmq-ecommerce&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=94A3B8&icon_color=64748B&cache_seconds=86400" width="48%" />
 </a>
 <a href="https://github.com/Edy-st-pt/Sistema_Agendamento">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=Sistema_Agendamento&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=0EA5E9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edy-st-pt&repo=Sistema_Agendamento&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=94A3B8&icon_color=64748B&cache_seconds=86400" width="48%" />
 </a>
 
 </div>
@@ -110,11 +110,23 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Edy-st-pt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=0EA5E9&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edy-st-pt&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=0EA5E9&currStreakLabel=6366F1" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Edy-st-pt&show_icons=true&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=94A3B8&icon_color=64748B&text_color=c9d1d9&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edy-st-pt&theme=dark&hide_border=true&background=0d1117&ring=64748B&fire=94A3B8&currStreakLabel=94A3B8" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edy-st-pt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edy-st-pt&layout=compact&theme=dark_dimmed&hide_border=true&bg_color=0d1117&title_color=94A3B8&cache_seconds=86400" width="40%" />
 
+</div>
+
+<br/>
+
+## 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edy-st-pt/Edy-st-pt/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edy-st-pt/Edy-st-pt/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation gif" src="https://raw.githubusercontent.com/Edy-st-pt/Edy-st-pt/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <br/>
@@ -122,7 +134,7 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 ## 🏆 Conquistas
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Edy-st-pt&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Edy-st-pt&theme=onedark&no-frame=true&no-bg=true&row=1&margin-w=15&column=6" />
 </div>
 
 <br/>
@@ -147,6 +159,6 @@ Desenvolvedor **Back-end** com experiência prática em projetos do zero — mod
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64748B,100:1E293B&height=100&section=footer" width="100%"/>
 
 </div>
